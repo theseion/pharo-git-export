@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"commandName" : "CamilloBruni 4/16/2013 12:36",
+		"description" : "CamilloBruni 4/16/2013 12:37" },
+	"instance" : {
+		"activate" : "CamilloBruni 4/16/2013 13:03",
+		"clonePharoCoreRepostory" : "CamilloBruni 4/16/2013 13:04",
+		"exportPackages" : "CamilloBruni 4/16/2013 13:04",
+		"loadBaseDirectory" : "CamilloBruni 4/16/2013 13:04" } }
