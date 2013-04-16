@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfGitExport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfGitExport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
