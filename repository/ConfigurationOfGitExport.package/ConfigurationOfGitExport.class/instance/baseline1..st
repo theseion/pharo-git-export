@@ -7,12 +7,12 @@ baseline1: spec
 		spec repository: 'http://smalltalkhub.com/mc/Pharo/GitExport/main'.
 	
 		self
-			fileSystemLegacy: spec;
-			commandShell: spec.
+			commandShell: spec;
+			fileSystemST: spec.
 				
 		spec
 			package: 'GitExport' with: [ 
-				spec requires: #('CommandShell')].
+				spec requires: #('CommandShell' 'FileSystemST')].
 			
 		spec 
 			group: 'default' with: #('GitExport')]
