@@ -4,4 +4,4 @@ fileSystemST: spec
 		spec 
 			className: 'ConfigurationOfFileSystemST';
 			version: #stable;
-			repository: 'http://smalltalkhub.com/mc/dh83/ConfigurationOfFileSystemST/main' ].
+			repository: 'http://smalltalkhub.com/mc/dh83/FileSystemST/main' ].
