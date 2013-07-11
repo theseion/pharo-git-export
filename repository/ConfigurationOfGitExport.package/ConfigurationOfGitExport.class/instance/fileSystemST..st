@@ -1,6 +1,6 @@
 external projects
 fileSystemST: spec
-	spec package: 'FileSystemST' with: [
+	spec project: 'FileSystemST' with: [
 		spec 
 			className: 'ConfigurationOfFileSystemST';
 			version: #stable;
