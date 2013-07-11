@@ -1,6 +1,6 @@
 baselines
-baseline106: spec
-	<version: '1.06-baseline'>
+baseline1: spec
+	<version: '1-baseline'>
 
 	spec for: #pharo do: [	
 		spec blessing: #baseline.
@@ -12,7 +12,7 @@ baseline106: spec
 				
 		spec
 			package: 'GitExport' with: [ 
-				spec requires: #('FileSystem-Legacy' 'CommandShell')].
+				spec requires: #('CommandShell')].
 			
 		spec 
 			group: 'default' with: #('GitExport')]
